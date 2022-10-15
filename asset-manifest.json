@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://priyathaisini.github.io/mutli-pages-react-template-proj/static/css/main.fe72d044.css",
-    "main.js": "https://priyathaisini.github.io/mutli-pages-react-template-proj/static/js/main.4d3b6ee0.js",
+    "main.js": "https://priyathaisini.github.io/mutli-pages-react-template-proj/static/js/main.f12ee1cc.js",
     "static/media/project1.png": "https://priyathaisini.github.io/mutli-pages-react-template-proj/static/media/project1.ede25cae0a2ed3bc3412.png",
     "static/media/intro-bg.jpg": "https://priyathaisini.github.io/mutli-pages-react-template-proj/static/media/intro-bg.cf2364827d8b8a98642e.jpg",
     "index.html": "https://priyathaisini.github.io/mutli-pages-react-template-proj/index.html",
     "main.fe72d044.css.map": "https://priyathaisini.github.io/mutli-pages-react-template-proj/static/css/main.fe72d044.css.map",
-    "main.4d3b6ee0.js.map": "https://priyathaisini.github.io/mutli-pages-react-template-proj/static/js/main.4d3b6ee0.js.map"
+    "main.f12ee1cc.js.map": "https://priyathaisini.github.io/mutli-pages-react-template-proj/static/js/main.f12ee1cc.js.map"
   },
   "entrypoints": [
     "static/css/main.fe72d044.css",
-    "static/js/main.4d3b6ee0.js"
+    "static/js/main.f12ee1cc.js"
   ]
 }
